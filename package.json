@@ -1,0 +1,13 @@
+{
+  "name": "int-test",
+  "version": "1.0.0",
+  "main": "solution.js",
+ "scripts": {
+  "test": "jest"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
